@@ -1,4 +1,4 @@
 version: 1.2
 workflows:
-  - subclass: SMKK
+  - subclass: SMK
     primaryDescriptorPath: /.snakemake-workflow-catalog.yml
